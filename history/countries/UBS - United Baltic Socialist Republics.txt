@@ -77,15 +77,19 @@ set_convoys = 10
 	}
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = van_soc
 	last_election = "1931.10.3"
 	election_frequency = 10
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 30
-	fascism = 10
-	communism = 50
-	neutrality = 10
+	van_soc = 57
+	pop_soc = 33
+	anarchy = 0
+	rev_theo = 1
+	dem = 5
+	aris_pat = 2
+	react = 0
+	nat_rev = 2
 }

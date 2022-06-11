@@ -1,0 +1,16 @@
+characters={
+	TAI_jiang_yuehan={
+		name=TAI_jiang_yuehan
+		portraits={
+			civilian={
+				large="GFX_portrait_TAI_jiang_yuehan"
+			}
+		}
+		country_leader={
+			ideology=taiping_thought
+			traits={}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

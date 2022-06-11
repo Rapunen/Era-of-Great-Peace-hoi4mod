@@ -266,6 +266,10 @@ MEN = {
 	color = rgb { 185  255  152 }
 	color_ui = rgb { 165  230  132 }
 }
+TAI = {
+	color = rgb { 251  255  163 }
+	color_ui = rgb { 251  255  163 }
+}
 TAN = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
