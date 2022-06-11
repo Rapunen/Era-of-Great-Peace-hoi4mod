@@ -1,0 +1,16 @@
+characters={
+	UBS_Yakov_Alksnis={
+		name=UBS_Yakov_Alksnis
+		portraits={
+			civilian={
+				large="GFX_portrait_UBSR_yakov_alksnis"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			traits={ marxist_hardliner }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
